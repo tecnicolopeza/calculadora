@@ -11,7 +11,7 @@ function Logo() {
       className="logo-contenedor"
       alignItems={"center"}
     >
-      <Box sx={{ width: { xs: "80%", sm: "60%", md: "40%" } }}>
+      <Box sx={{ width: { xs: "80%", sm: "60%", md: "30%" } }}>
         <img className="img-logo" width={"100%"} src={logo} alt="logo" />
       </Box>
     </Stack>
